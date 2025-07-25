@@ -560,7 +560,7 @@ npm install
 **Akash Lathiya**
 - 🌐 GitHub: [@akashlathiya16](https://github.com/akashlathiya16)
 - 📧 Email: [akashweb016@gmail.com](mailto:akashweb016@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/akashlathiya16)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/akash-lathiya-0981a8240/)
 - 🌟 Portfolio: [View Projects](https://akashlathiya16.github.io)
 
 ---
