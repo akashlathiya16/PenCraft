@@ -1012,6 +1012,31 @@ npm run dev
 
 ---
 
+## 👨‍💻 Developer Information
+
+**Akash Lathiya**
+- 🌐 GitHub: [@akashlathiya16](https://github.com/akashlathiya16)
+- 📧 Email: [akashweb016@gmail.com](mailto:akashweb016@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/akashlathiya16)
+- 🌟 Portfolio: [View Projects](https://akashlathiya16.github.io)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- **React Community** for excellent documentation and tools
+- **Node.js Community** for the robust backend framework
+- **Open Source Contributors** who make development easier
+- **You** for taking the time to learn and build amazing things!
+
+---
+
 **Happy Learning! 🎓**
 
 > Remember: The best way to learn is by doing. Don't just read - experiment, break things, fix them, and build something amazing!

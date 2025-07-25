@@ -352,11 +352,11 @@ FRONTEND_URL=https://your-frontend-domain.com
 
 ## 👨‍💻 Developer Information
 
-**PenCraft Team**
-- 🌐 GitHub: [@pencraft-team](https://github.com/pencraft-team)
-- 📧 Email: support@pencraft.com
-- 💼 LinkedIn: [Connect with us](https://linkedin.com/company/pencraft)
-- 🌟 Portfolio: [View Projects](https://pencraft.com)
+**Akash Lathiya**
+- 🌐 GitHub: [@akashlathiya16](https://github.com/akashlathiya16)
+- 📧 Email: [akashweb016@gmail.com](mailto:akashweb016@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/akashlathiya16)
+- 🌟 Portfolio: [View Projects](https://akashlathiya16.github.io)
 
 ---
 
@@ -381,7 +381,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For support and questions:
 - 🐛 **Bug Reports**: Create an issue on GitHub
-- 📧 **Email**: support@pencraft.com
+- 📧 **Email**: [akashweb016@gmail.com](mailto:akashweb016@gmail.com)
 - 💬 **Discord**: Join our community server
 - 📖 **Documentation**: Check our [Learning Guide](LEARNING-GUIDE.md)
 
