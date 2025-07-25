@@ -224,13 +224,21 @@ npm run dev
 
 ### **Method 1: One-Click Startup (Recommended 🚀)**
 
-**Start both servers simultaneously:**
+**Windows Users - Double-click the batch file:**
 ```bash
-npm run dev
+# Simply double-click this file:
+start-project.bat
 ```
 ✅ **Automatically starts both servers**  
 ✅ **Backend**: `http://localhost:5000`  
 ✅ **Frontend**: `http://localhost:3000`  
+✅ **Auto-opens browser**
+✅ **Checks dependencies and configuration**
+
+**Or use npm command:**
+```bash
+npm run dev
+```  
 
 ### **Method 2: Manual Development Mode**
 
@@ -350,6 +358,7 @@ PenCraft/
 │   ├── 📄 tailwind.config.js       # Tailwind configuration
 │   └── 📄 postcss.config.js        # PostCSS configuration
 ├── 📄 package.json                 # Root package configuration
+├── 📄 start-project.bat            # One-click startup (Windows)
 ├── 📄 .gitignore                   # Git ignore rules
 ├── 📄 README.md                    # Project documentation
 └── 📄 LEARNING-GUIDE.md            # Learning resource
@@ -533,6 +542,15 @@ npm install
 # Ensure browser supports WebGL
 # Check browser console for Three.js errors
 # Update graphics drivers if necessary
+```
+
+**5. Batch File Issues (Windows)**
+```bash
+# If start-project.bat doesn't work:
+# 1. Run as Administrator
+# 2. Check if Node.js is in PATH
+# 3. Ensure you're in project root directory
+# 4. Run manually: npm run dev
 ```
 
 ---
